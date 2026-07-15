@@ -1,16 +1,15 @@
-## Hi there 👋
+## Myself
+Rishi is an alias and the pfp is Touka Kirishima(<3) from Tokyo Ghoul.  
 
-<!--
-**r1sh1-techy/r1sh1-techy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my personal website ✨ 
+- 🌱 I’m currently learning git,cybersecurity,newer osint tools 
+- 👯 I’m looking to collaborate on projects dealing with social work, osint ,military tech
+- 🤔 I’m looking for help with my website 🥲
+- 💬 Ask me about anime, naval vessels
+- 📫 How to reach me: X, linkedin, tryhackme 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i know morsecode and use linux 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for your time!😙
+If you share similar interests or would like to connect feel free to drop a message! ☮️
