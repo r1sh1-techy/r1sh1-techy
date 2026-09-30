@@ -1,4 +1,4 @@
-![Header](./[git header.png])
+![image alt](https://github.com/r1sh1-techy/r1sh1-techy/blob/d540830a7b6f44eb9bc500d57ad27d81da8f380d/git%20header.png)
 
 
 ## Myself
