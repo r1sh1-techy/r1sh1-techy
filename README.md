@@ -1,23 +1,10 @@
 ![image alt](https://github.com/r1sh1-techy/r1sh1-techy/blob/d540830a7b6f44eb9bc500d57ad27d81da8f380d/git%20header.png)
 
+OSINT | OPSEC | CTF Writeups | Learning :3 
 
-## Myself
-Rishi is an alias and the pfp is Touka Kirishima(<3) from Tokyo Ghoul.  
+<samp>
+
+<a href="www.linkedin.com/in/-r1sh1"><strong>LinkedIn</strong></a> | <a href="https://tryhackme.com/p/r1sh1."><strong>TryHackMe</strong></a> | <a href="https://x.com/r1sh1_bh"><strong>X(Twitter)</strong></a> | 
 
 
-- (^_^)v I’m currently working on my personal website ✨ 
-
-- ( ﾟーﾟ) I’m currently learning git,cybersecurity,newer osint tools 
-
-- (　＾ω＾)I’m looking to collaborate on projects dealing with social work, osint ,military tech
-
-- (゜ロ゜)I’m looking for help with my website 🥲
-
-- (^_^)Ask me about anime, naval vessels
-
-- (^ー^)How to reach me: X, linkedin, tryhackme 
-
-- (　＾∀＾) Fun fact: i know morsecode and use linux 
-
-Thank you for your time!😙
-If you share similar interests or would like to connect feel free to drop a message! ☮️
+<samp>
